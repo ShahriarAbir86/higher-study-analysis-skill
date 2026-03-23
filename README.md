@@ -47,7 +47,7 @@ Skill activate হলে Claude তোমার কাছে জানতে চ
 
 ## Credit
 
-Built by [Shahriar](https://linkedin.com/in/your-profile) — KUET IPE  
+Built by [KAzi Md. Shahriar](https://linkedin.com/in/your-profile) — KUET IPE  
 
 ---
 

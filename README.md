@@ -51,4 +51,4 @@ Built by [KAzi Md. Shahriar](https://linkedin.com/in/your-profile) — KUET IPE
 
 ---
 
-⭐ Useful লাগলে star দাও — আরও দেশ add হতে থাকবে।
+⭐ Useful লাগলে star দাও

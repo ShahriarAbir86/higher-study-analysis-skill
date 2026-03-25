@@ -47,7 +47,9 @@ Skill activate হলে Claude তোমার কাছে জানতে চ
 
 ## Credit
 
-Built by [KAzi Md. Shahriar](https://linkedin.com/in/your-profile) — KUET IPE  
+Built by [Kazi Md. Shahriar](https://linkedin.com/in/your-profile) 
+Khulna University of Engineering and Technology
+Industrial and Production Englineering, Batch 2020.
 
 ---
 
